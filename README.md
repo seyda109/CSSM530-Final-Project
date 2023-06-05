@@ -7,5 +7,5 @@ This project aims to conduct a comparative aspect-based sentiment analysis of Ku
 The project is structured as follows:
 
 - `projectdata/`: Contains the data files used for analysis, including user reviews for Kunduz App and other selected ed-tech startups or companies.
-- 'LDA-2.ipynb' : is the LDA model for topic modelling.
-- 'Vader_ABSA.ipynb' : is the script for aspect-based sentiment analysis.
+- `LDA-2.ipynb`: Notebook implementing the LDA (Latent Dirichlet Allocation) model for topic modeling.
+- `Vader_ABSA.ipynb`: Notebook implementing the aspect-based sentiment analysis using Vader.
